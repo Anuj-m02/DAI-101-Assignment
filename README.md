@@ -1,5 +1,10 @@
 # Laptop Price Analysis - Data Analysis & Visualization
 
+## 🛠 Instructions
+⚠️ **If this Python notebook does not open in GitHub or shows a rendering issue:**
+- **Clone this repository** and open the `.ipynb` file in **Jupyter Notebook** on your personal laptop.
+- **OR** use [nbviewer.org](https://nbviewer.org/) to view the notebook online.
+
 ## Project Overview
 - Exploratory Data Analysis (EDA) on a laptop price dataset.
 - Analyzes key attributes like price, RAM, CPU, GPU, weight, and screen size.
