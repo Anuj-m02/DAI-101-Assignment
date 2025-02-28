@@ -5,6 +5,9 @@
 - **Clone this repository** and open the `.ipynb` file in **Jupyter Notebook** on your personal laptop.
 - **OR** use [nbviewer.org](https://nbviewer.org/) to view the notebook online.
 
+## Author
+- Anuj Singh 23112018 BTECH Chemical Engineering'27 IIT ROORKEE 
+
 ## Project Overview
 - Exploratory Data Analysis (EDA) on a laptop price dataset.
 - Analyzes key attributes like price, RAM, CPU, GPU, weight, and screen size.
